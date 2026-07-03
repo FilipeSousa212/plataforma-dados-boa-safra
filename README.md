@@ -52,8 +52,7 @@ Projeto_Safra_Distribuidora/
 ├── src/             # Scripts do pipeline
 ├── notebooks/       # Exploração
 ├── reports/         # Gráficos e dashboard
-├── README.md
-└── PASSO_A_PASSO.md # Diário do projeto (o que foi feito e por quê)
+└── README.md
 ```
 
 ## ▶️ Como rodar
@@ -72,11 +71,28 @@ python src/04_reconciliar_clientes.py
 - [x] Passo 0 — Ambiente e estrutura do projeto
 - [x] Passo 1 — Conhecer as 4 fontes
 - [x] Passo 2 — Padronizar (camada prata)
-- [ ] Passo 3 — Reconciliar clientes (em andamento)
-- [ ] Passo 4 — Fonte única de vendas + margem por cliente
-- [ ] Passo 5 — Previsão de vendas
+- [x] Passo 3 — Reconciliar clientes (ERP + app + e-commerce numa chave única)
+- [x] Passo 4 — Fonte única de vendas + margem por cliente
+- [ ] Passo 5 — Previsão de vendas (em andamento)
 - [ ] Passo 6 — Dashboard
 - [ ] Passo 7 — Publicação
+
+## 📈 Principais resultados
+
+- **Faturamento real desmascarado:** a soma ingênua dos 3 sistemas dava R$ 11,6 mi, mas o
+  faturamento real é **R$ 6,16 mi** — R$ 5,4 mi eram vendas duplicadas (app e e-commerce já
+  estão dentro do ERP).
+- **20% dos clientes dão prejuízo** (212 de 1.063), drenando **R$ 1,1 mi/ano** — validando a
+  suspeita do diagnóstico (15–20%). Principal causa: o **frete** (custo de atendimento).
+
+## 🔎 Destaques técnicos
+
+- Reconciliação de identidades: ERP↔app por **CNPJ normalizado** (431/431) e e-commerce por
+  **e-mail** (204/204), sempre **validando** cada id contra o cadastro oficial.
+- Lição aprendida: **fuzzy matching por nome gera falsos positivos** quando só um número
+  distingue os clientes — resolvido usando a chave confiável (e-mail).
+- **Análise de sensibilidade** do frete: testei um modelo alternativo, mostrou-se irreal,
+  mantive o original e documentei a premissa de maior incerteza.
 
 ---
 
