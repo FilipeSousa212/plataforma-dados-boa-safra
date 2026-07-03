@@ -35,7 +35,7 @@ Os dados passam por três camadas, do bruto ao pronto para decisão:
 - **Prata (`data/interim`)** — dado limpo e padronizado (formatos, encoding, CNPJ, datas).
 - **Ouro (`data/processed`)** — fonte única de verdade: vendas unificadas e margem por cliente.
 
-## Stack
+## stack
 
 - **Python** + **pandas** — leitura, limpeza e junção dos dados
 - **openpyxl** — leitura de arquivos Excel
