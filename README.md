@@ -1,4 +1,4 @@
-# 📊 Plataforma de Dados — Comercial Boa Safra
+# Plataforma de Dados — Comercial Boa Safra
 
 > Projeto de **Engenharia de Dados** que unifica quatro sistemas que "não se falam" para
 > responder a uma pergunta simples que a empresa não conseguia responder:
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 O problema
+## O problema
 
 A Comercial Boa Safra é uma distribuidora atacadista (R$ 92 mi/ano, ~3.400 clientes,
 ~6.500 produtos). Ela roda sobre **quatro sistemas que não conversam entre si**, e o
@@ -27,7 +27,7 @@ clientes dão prejuízo depois de todos os custos. Oportunidade estimada no diag
 
 ---
 
-## 🏗️ Arquitetura (Bronze → Prata → Ouro)
+## Arquitetura (Bronze → Prata → Ouro)
 
 Os dados passam por três camadas, do bruto ao pronto para decisão:
 
@@ -35,13 +35,13 @@ Os dados passam por três camadas, do bruto ao pronto para decisão:
 - **Prata (`data/interim`)** — dado limpo e padronizado (formatos, encoding, CNPJ, datas).
 - **Ouro (`data/processed`)** — fonte única de verdade: vendas unificadas e margem por cliente.
 
-## 🧰 Stack
+## Stack
 
 - **Python** + **pandas** — leitura, limpeza e junção dos dados
 - **openpyxl** — leitura de arquivos Excel
 - **rapidfuzz** — casamento aproximado de nomes (fuzzy matching)
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 Projeto_Safra_Distribuidora/
@@ -55,7 +55,7 @@ Projeto_Safra_Distribuidora/
 └── README.md
 ```
 
-## ▶️ Como rodar
+## Como rodar
 
 ```bash
 python -m venv .venv
@@ -66,7 +66,7 @@ python src/03_padronizar_clientes.py
 python src/04_reconciliar_clientes.py
 ```
 
-## ✅ Status
+## Status
 
 - [x] Passo 0 — Ambiente e estrutura do projeto
 - [x] Passo 1 — Conhecer as 4 fontes
@@ -77,7 +77,7 @@ python src/04_reconciliar_clientes.py
 - [x] Passo 6 — Dashboard
 - [x] Passo 7 — Publicação (em andamento)
 
-## 📈 Principais resultados
+## Principais resultados
 
 - **Faturamento real desmascarado:** a soma ingênua dos 3 sistemas dava R$ 11,6 mi, mas o
   faturamento real é **R$ 6,16 mi** — R$ 5,4 mi eram vendas duplicadas (app e e-commerce já
@@ -85,7 +85,7 @@ python src/04_reconciliar_clientes.py
 - **20% dos clientes dão prejuízo** (212 de 1.063), drenando **R$ 1,1 mi/ano** — validando a
   suspeita do diagnóstico (15–20%). Principal causa: o **frete** (custo de atendimento).
 
-## 📊 Dashboard
+## Dashboard
 
 **Faturamento mensal + previsão do 2º semestre de 2026:**
 
@@ -95,7 +95,7 @@ python src/04_reconciliar_clientes.py
 
 ![Clientes deficitários](reports/clientes_deficitarios.png)
 
-## 🔎 Destaques técnicos
+## Destaques técnicos
 
 - Reconciliação de identidades: ERP↔app por **CNPJ normalizado** (431/431) e e-commerce por
   **e-mail** (204/204), sempre **validando** cada id contra o cadastro oficial.
