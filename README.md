@@ -73,9 +73,9 @@ python src/04_reconciliar_clientes.py
 - [x] Passo 2 — Padronizar (camada prata)
 - [x] Passo 3 — Reconciliar clientes (ERP + app + e-commerce numa chave única)
 - [x] Passo 4 — Fonte única de vendas + margem por cliente
-- [ ] Passo 5 — Previsão de vendas (em andamento)
-- [ ] Passo 6 — Dashboard
-- [ ] Passo 7 — Publicação
+- [x] Passo 5 — Previsão de vendas
+- [x] Passo 6 — Dashboard
+- [ ] Passo 7 — Publicação (em andamento)
 
 ## 📈 Principais resultados
 
@@ -84,6 +84,16 @@ python src/04_reconciliar_clientes.py
   estão dentro do ERP).
 - **20% dos clientes dão prejuízo** (212 de 1.063), drenando **R$ 1,1 mi/ano** — validando a
   suspeita do diagnóstico (15–20%). Principal causa: o **frete** (custo de atendimento).
+
+## 📊 Dashboard
+
+**Faturamento mensal + previsão do 2º semestre de 2026:**
+
+![Faturamento mensal](reports/faturamento_mensal.png)
+
+**Os 10 clientes que mais dão prejuízo (margem líquida anual):**
+
+![Clientes deficitários](reports/clientes_deficitarios.png)
 
 ## 🔎 Destaques técnicos
 
