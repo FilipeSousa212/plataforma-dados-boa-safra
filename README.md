@@ -80,4 +80,4 @@ python src/04_reconciliar_clientes.py
 
 ---
 
-*Autor: Filipe · Projeto de estudo em Engenharia de Dados*
+*Autor: Filipe Sousa · Projeto de estudo em Engenharia de Dados*
