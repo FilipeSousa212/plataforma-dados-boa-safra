@@ -1,0 +1,601 @@
+COD_PROD;DESCRICAO;EAN;GRUPO;UNIDADE
+PA00001;Molho de Tomate 340g Delta;7898502859188;Mercearia Seca;UN
+PA00002;Arroz T1 5kg Vitória;7895498081067;Mercearia Seca;PC
+PA00003;Feijão Carioca 1kg Real;7893505830509;Mercearia Seca;FD
+PA00004;Açúcar Refinado 1kg Campo Verde;7895005686747;Mercearia Seca;FD
+PA00005;Molho de Tomate 340g Real;7898133957260;Mercearia Seca;CX
+PA00006;Feijão Carioca 1kg Real;7891321122501;Mercearia Seca;UN
+PA00007;Macarrão Espaguete 500g Campo Verde;7894972580171;Mercearia Seca;FD
+PA00008;Açúcar Refinado 1kg Primor;7891874732547;Mercearia Seca;UN
+PA00009;Molho de Tomate 340g Delta;7895401130141;Mercearia Seca;UN
+PA00010;Farinha de Trigo 1kg Real;7899684060935;Mercearia Seca;PC
+PA00011;Feijão Carioca 1kg Primor;7897675938515;Mercearia Seca;CX
+PA00012;Arroz T1 5kg Aurora;7895870294382;Mercearia Seca;FD
+PA00013;Óleo de Soja 900ml Delta;7896383656599;Mercearia Seca;FD
+PA00014;Açúcar Refinado 1kg Aurora;7892351797554;Mercearia Seca;FD
+PA00015;Molho de Tomate 340g Vitória;7895924370123;Mercearia Seca;FD
+PA00016;Molho de Tomate 340g Aurora;7891470342065;Mercearia Seca;CX
+PA00017;Café Torrado 500g Bom Preço;7891068318960;Mercearia Seca;FD
+PA00018;Arroz T1 5kg Vitória;7895797300159;Mercearia Seca;UN
+PA00019;Café Torrado 500g Real;7896127472324;Mercearia Seca;CX
+PA00020;Feijão Carioca 1kg Primor;7891442495881;Mercearia Seca;UN
+PA00021;Óleo de Soja 900ml Campo Verde;7891545529803;Mercearia Seca;CX
+PA00022;Molho de Tomate 340g Vitória;7899724770954;Mercearia Seca;PC
+PA00023;Farinha de Trigo 1kg Primor;7891495883024;Mercearia Seca;UN
+PA00024;Sal Refinado 1kg Vitória;7894742237298;Mercearia Seca;PC
+PA00025;Arroz T1 5kg Delta;7894900143713;Mercearia Seca;PC
+PA00026;Sal Refinado 1kg Vitória;7898774386061;Mercearia Seca;CX
+PA00027;Molho de Tomate 340g Primor;7899992623327;Mercearia Seca;UN
+PA00028;Óleo de Soja 900ml Campo Verde;7897687985071;Mercearia Seca;PC
+PA00029;Farinha de Trigo 1kg Bom Preço;7899733737412;Mercearia Seca;UN
+PA00030;Café Torrado 500g Delta;7891787230437;Mercearia Seca;FD
+PA00031;Açúcar Refinado 1kg Aurora;7891955520179;Mercearia Seca;UN
+PA00032;Óleo de Soja 900ml Vitória;7899877873779;Mercearia Seca;CX
+PA00033;Feijão Carioca 1kg Aurora;7892819792237;Mercearia Seca;PC
+PA00034;Feijão Carioca 1kg Primor;7897911549024;Mercearia Seca;FD
+PA00035;Farinha de Trigo 1kg Delta;7894369594774;Mercearia Seca;CX
+PA00036;Sal Refinado 1kg Campo Verde;7892464615509;Mercearia Seca;FD
+PA00037;Macarrão Espaguete 500g Campo Verde;7897118506660;Mercearia Seca;FD
+PA00038;Açúcar Refinado 1kg Real;7893683787787;Mercearia Seca;CX
+PA00039;Farinha de Trigo 1kg Vitória;7895225260710;Mercearia Seca;UN
+PA00040;Açúcar Refinado 1kg Campo Verde;7897720236672;Mercearia Seca;FD
+PA00041;Molho de Tomate 340g Primor;7894381433761;Mercearia Seca;CX
+PA00042;Feijão Carioca 1kg Campo Verde;7894709350305;Mercearia Seca;FD
+PA00043;Arroz T1 5kg Aurora;7891028897764;Mercearia Seca;PC
+PA00044;Sal Refinado 1kg Real;7899266043301;Mercearia Seca;PC
+PA00045;Sal Refinado 1kg Real;7898347388836;Mercearia Seca;PC
+PA00046;Açúcar Refinado 1kg Bom Preço;7893330607994;Mercearia Seca;CX
+PA00047;Sal Refinado 1kg Aurora;7893195863177;Mercearia Seca;UN
+PA00048;Açúcar Refinado 1kg Delta;7891793085823;Mercearia Seca;UN
+PA00049;Macarrão Espaguete 500g Vitória;7896785877103;Mercearia Seca;PC
+PA00050;Óleo de Soja 900ml Delta;7897852871536;Mercearia Seca;FD
+PA00051;Óleo de Soja 900ml Bom Preço;7899105006191;Mercearia Seca;PC
+PA00052;Arroz T1 5kg Bom Preço;7892379067028;Mercearia Seca;UN
+PA00053;Açúcar Refinado 1kg Delta;7896964726369;Mercearia Seca;PC
+PA00054;Óleo de Soja 900ml Real;7897756439474;Mercearia Seca;PC
+PA00055;Macarrão Espaguete 500g Aurora;7898144251340;Mercearia Seca;UN
+PA00056;Macarrão Espaguete 500g Delta;7898231614287;Mercearia Seca;CX
+PA00057;Açúcar Refinado 1kg Bom Preço;7897498425988;Mercearia Seca;UN
+PA00058;Feijão Carioca 1kg Vitória;7891240321146;Mercearia Seca;UN
+PA00059;Farinha de Trigo 1kg Delta;7899503240753;Mercearia Seca;PC
+PA00060;Macarrão Espaguete 500g Campo Verde;7892203490695;Mercearia Seca;UN
+PA00061;Farinha de Trigo 1kg Delta;7895855694923;Mercearia Seca;CX
+PA00062;Feijão Carioca 1kg Delta;7894100514955;Mercearia Seca;PC
+PA00063;Sal Refinado 1kg Delta;7892795747771;Mercearia Seca;PC
+PA00064;Molho de Tomate 340g Bom Preço;7896765007186;Mercearia Seca;UN
+PA00065;Sal Refinado 1kg Campo Verde;7897783896738;Mercearia Seca;PC
+PA00066;Macarrão Espaguete 500g Delta;7892632003862;Mercearia Seca;PC
+PA00067;Café Torrado 500g Vitória;7897545922989;Mercearia Seca;UN
+PA00068;Sal Refinado 1kg Primor;7898431901026;Mercearia Seca;FD
+PA00069;Arroz T1 5kg Aurora;7893523005835;Mercearia Seca;CX
+PA00070;Sal Refinado 1kg Primor;7896028005263;Mercearia Seca;UN
+PA00071;Café Torrado 500g Aurora;7892167031217;Mercearia Seca;FD
+PA00072;Óleo de Soja 900ml Campo Verde;7891791979599;Mercearia Seca;PC
+PA00073;Farinha de Trigo 1kg Vitória;7898866619664;Mercearia Seca;PC
+PA00074;Farinha de Trigo 1kg Real;7894403622951;Mercearia Seca;CX
+PA00075;Óleo de Soja 900ml Primor;7891300053116;Mercearia Seca;UN
+PA00076;Óleo de Soja 900ml Campo Verde;7895932258901;Mercearia Seca;UN
+PA00077;Café Torrado 500g Aurora;7899275170104;Mercearia Seca;UN
+PA00078;Sal Refinado 1kg Campo Verde;7899936539714;Mercearia Seca;PC
+PA00079;Café Torrado 500g Vitória;7899285147493;Mercearia Seca;FD
+PA00080;Molho de Tomate 340g Bom Preço;7892050808360;Mercearia Seca;PC
+PA00081;Macarrão Espaguete 500g Campo Verde;7897753529710;Mercearia Seca;PC
+PA00082;Feijão Carioca 1kg Real;7897921998904;Mercearia Seca;UN
+PA00083;Arroz T1 5kg Bom Preço;7893824296352;Mercearia Seca;UN
+PA00084;Macarrão Espaguete 500g Real;7891510969252;Mercearia Seca;CX
+PA00085;Molho de Tomate 340g Delta;7893219179765;Mercearia Seca;FD
+PA00086;Feijão Carioca 1kg Vitória;7892511504633;Mercearia Seca;UN
+PA00087;Farinha de Trigo 1kg Campo Verde;7892483127533;Mercearia Seca;FD
+PA00088;Café Torrado 500g Aurora;7898416250972;Mercearia Seca;FD
+PA00089;Sal Refinado 1kg Delta;7899504532956;Mercearia Seca;PC
+PA00090;Feijão Carioca 1kg Campo Verde;7894055080956;Mercearia Seca;UN
+PA00091;Macarrão Espaguete 500g Campo Verde;7897103255160;Mercearia Seca;PC
+PA00092;Café Torrado 500g Aurora;7895909275733;Mercearia Seca;PC
+PA00093;Café Torrado 500g Bom Preço;7899858210920;Mercearia Seca;UN
+PA00094;Macarrão Espaguete 500g Aurora;7891900021539;Mercearia Seca;PC
+PA00095;Café Torrado 500g Real;7893658696991;Mercearia Seca;PC
+PA00096;Sal Refinado 1kg Delta;7893951043867;Mercearia Seca;UN
+PA00097;Arroz T1 5kg Real;7898534696102;Mercearia Seca;FD
+PA00098;Molho de Tomate 340g Vitória;7893645779614;Mercearia Seca;FD
+PA00099;Açúcar Refinado 1kg Bom Preço;7894949360737;Mercearia Seca;PC
+PA00100;Arroz T1 5kg Aurora;7898207159149;Mercearia Seca;FD
+PA00101;Refresco em Pó 30g Campo Verde;7891020263628;Bebidas;FD
+PA00102;Suco Néctar 1L Real;7894752550271;Bebidas;UN
+PA00103;Refrigerante Cola 2L Primor;7898188170713;Bebidas;UN
+PA00104;Energético 250ml Campo Verde;7891494913593;Bebidas;FD
+PA00105;Cerveja Lata 350ml Primor;7899565300167;Bebidas;FD
+PA00106;Água Mineral 1,5L Primor;7899222981791;Bebidas;CX
+PA00107;Refrigerante Cola 2L Delta;7898118793548;Bebidas;FD
+PA00108;Água Mineral 1,5L Aurora;7895622958081;Bebidas;UN
+PA00109;Refresco em Pó 30g Primor;7891977828178;Bebidas;FD
+PA00110;Água Mineral 1,5L Real;7891342115452;Bebidas;PC
+PA00111;Água Mineral 1,5L Delta;7891905555787;Bebidas;FD
+PA00112;Água Mineral 1,5L Vitória;7895199590387;Bebidas;UN
+PA00113;Refresco em Pó 30g Campo Verde;7895532902174;Bebidas;PC
+PA00114;Água Mineral 1,5L Vitória;7898602561899;Bebidas;PC
+PA00115;Energético 250ml Campo Verde;7893575848626;Bebidas;FD
+PA00116;Cerveja Lata 350ml Primor;7893251773495;Bebidas;FD
+PA00117;Água Mineral 1,5L Vitória;7896727860460;Bebidas;CX
+PA00118;Suco Néctar 1L Primor;7893895535701;Bebidas;CX
+PA00119;Isotônico 500ml Vitória;7899001656032;Bebidas;PC
+PA00120;Água Mineral 1,5L Vitória;7893402110278;Bebidas;PC
+PA00121;Energético 250ml Bom Preço;7891659622803;Bebidas;FD
+PA00122;Cerveja Lata 350ml Bom Preço;7892782189737;Bebidas;CX
+PA00123;Refresco em Pó 30g Aurora;7895263048110;Bebidas;PC
+PA00124;Água Mineral 1,5L Delta;7895913000789;Bebidas;FD
+PA00125;Energético 250ml Real;7897934625828;Bebidas;FD
+PA00126;Refresco em Pó 30g Primor;7895006742152;Bebidas;FD
+PA00127;Suco Néctar 1L Vitória;7896790215952;Bebidas;PC
+PA00128;Suco Néctar 1L Vitória;7895288833197;Bebidas;UN
+PA00129;Suco Néctar 1L Bom Preço;7899658459666;Bebidas;UN
+PA00130;Suco Néctar 1L Vitória;7891607286347;Bebidas;CX
+PA00131;Energético 250ml Real;7892760152074;Bebidas;PC
+PA00132;Refresco em Pó 30g Vitória;7895392703218;Bebidas;FD
+PA00133;Energético 250ml Real;7897909220126;Bebidas;UN
+PA00134;Suco Néctar 1L Campo Verde;7894451430614;Bebidas;CX
+PA00135;Suco Néctar 1L Delta;7894234848803;Bebidas;UN
+PA00136;Isotônico 500ml Aurora;7891121227956;Bebidas;UN
+PA00137;Água Mineral 1,5L Aurora;7892192349196;Bebidas;CX
+PA00138;Suco Néctar 1L Aurora;7895580278665;Bebidas;UN
+PA00139;Cerveja Lata 350ml Delta;7895235347524;Bebidas;PC
+PA00140;Energético 250ml Aurora;7896278184282;Bebidas;FD
+PA00141;Água Mineral 1,5L Bom Preço;7894220772426;Bebidas;PC
+PA00142;Isotônico 500ml Aurora;7892296101119;Bebidas;UN
+PA00143;Suco Néctar 1L Vitória;7897122038157;Bebidas;PC
+PA00144;Isotônico 500ml Campo Verde;7898121123820;Bebidas;FD
+PA00145;Água Mineral 1,5L Primor;7897905981632;Bebidas;CX
+PA00146;Água Mineral 1,5L Primor;7893345813519;Bebidas;FD
+PA00147;Energético 250ml Vitória;7891823096157;Bebidas;CX
+PA00148;Cerveja Lata 350ml Bom Preço;7893735262255;Bebidas;PC
+PA00149;Cerveja Lata 350ml Primor;7899351969196;Bebidas;FD
+PA00150;Energético 250ml Vitória;7898681436224;Bebidas;UN
+PA00151;Refresco em Pó 30g Campo Verde;7893209282659;Bebidas;UN
+PA00152;Energético 250ml Real;7892911736801;Bebidas;PC
+PA00153;Suco Néctar 1L Real;7897321652895;Bebidas;FD
+PA00154;Refrigerante Cola 2L Campo Verde;7895644370137;Bebidas;UN
+PA00155;Refresco em Pó 30g Primor;7891759586609;Bebidas;PC
+PA00156;Energético 250ml Campo Verde;7893815172153;Bebidas;FD
+PA00157;Isotônico 500ml Campo Verde;7893636459112;Bebidas;UN
+PA00158;Refresco em Pó 30g Aurora;7894404354516;Bebidas;UN
+PA00159;Água Mineral 1,5L Bom Preço;7891238070070;Bebidas;UN
+PA00160;Suco Néctar 1L Campo Verde;7897577264910;Bebidas;UN
+PA00161;Isotônico 500ml Vitória;7895582199562;Bebidas;UN
+PA00162;Refresco em Pó 30g Aurora;7897358075421;Bebidas;UN
+PA00163;Refresco em Pó 30g Primor;7899015396801;Bebidas;PC
+PA00164;Energético 250ml Aurora;7891675976843;Bebidas;CX
+PA00165;Refrigerante Cola 2L Real;7898590485498;Bebidas;FD
+PA00166;Cerveja Lata 350ml Campo Verde;7895399218852;Bebidas;FD
+PA00167;Suco Néctar 1L Vitória;7893384339056;Bebidas;CX
+PA00168;Refresco em Pó 30g Primor;7895226005990;Bebidas;PC
+PA00169;Água Mineral 1,5L Vitória;7891375498522;Bebidas;UN
+PA00170;Refrigerante Cola 2L Bom Preço;7896110743202;Bebidas;FD
+PA00171;Energético 250ml Real;7893912659748;Bebidas;PC
+PA00172;Energético 250ml Bom Preço;7898225005350;Bebidas;CX
+PA00173;Energético 250ml Real;7895418422611;Bebidas;PC
+PA00174;Refresco em Pó 30g Delta;7892215789237;Bebidas;CX
+PA00175;Água Mineral 1,5L Vitória;7893430416168;Bebidas;CX
+PA00176;Energético 250ml Aurora;7896032576988;Bebidas;FD
+PA00177;Isotônico 500ml Delta;7891911635572;Bebidas;FD
+PA00178;Refresco em Pó 30g Aurora;7899192508509;Bebidas;FD
+PA00179;Suco Néctar 1L Primor;7895225794352;Bebidas;PC
+PA00180;Suco Néctar 1L Aurora;7895383263523;Bebidas;CX
+PA00181;Cerveja Lata 350ml Delta;7897861961839;Bebidas;PC
+PA00182;Refresco em Pó 30g Bom Preço;7898899521675;Bebidas;PC
+PA00183;Suco Néctar 1L Bom Preço;7895101755354;Bebidas;FD
+PA00184;Energético 250ml Aurora;7895570826104;Bebidas;UN
+PA00185;Suco Néctar 1L Campo Verde;7896491381413;Bebidas;CX
+PA00186;Suco Néctar 1L Vitória;7891305199437;Bebidas;CX
+PA00187;Água Mineral 1,5L Real;7897796626322;Bebidas;CX
+PA00188;Refresco em Pó 30g Campo Verde;7894508557431;Bebidas;CX
+PA00189;Refrigerante Cola 2L Real;7899741867538;Bebidas;CX
+PA00190;Água Mineral 1,5L Delta;7894764228410;Bebidas;FD
+PA00191;Refresco em Pó 30g Primor;7892768299566;Bebidas;FD
+PA00192;Suco Néctar 1L Bom Preço;7891833933107;Bebidas;PC
+PA00193;Água Mineral 1,5L Bom Preço;7899441632436;Bebidas;CX
+PA00194;Energético 250ml Campo Verde;7898536905059;Bebidas;FD
+PA00195;Cerveja Lata 350ml Real;7896421913561;Bebidas;UN
+PA00196;Isotônico 500ml Real;7897331141327;Bebidas;PC
+PA00197;Refrigerante Cola 2L Campo Verde;7893716275977;Bebidas;PC
+PA00198;Cerveja Lata 350ml Campo Verde;7896922409723;Bebidas;CX
+PA00199;Refresco em Pó 30g Vitória;7894704931172;Bebidas;CX
+PA00200;Suco Néctar 1L Vitória;7892356499507;Bebidas;UN
+PA00201;Limpador Multiuso 500ml Real;7894366868700;Limpeza;PC
+PA00202;Desinfetante 1L Aurora;7894899510824;Limpeza;CX
+PA00203;Desinfetante 1L Real;7893802702578;Limpeza;FD
+PA00204;Limpador Multiuso 500ml Aurora;7892424677639;Limpeza;PC
+PA00205;Sabão em Pó 1kg Vitória;7897671368811;Limpeza;CX
+PA00206;Sabão em Barra 200g Delta;7898728552962;Limpeza;FD
+PA00207;Limpador Multiuso 500ml Delta;7892658348848;Limpeza;UN
+PA00208;Desinfetante 1L Campo Verde;7897979288927;Limpeza;UN
+PA00209;Água Sanitária 2L Campo Verde;7891415971732;Limpeza;PC
+PA00210;Amaciante 2L Campo Verde;7898937929876;Limpeza;FD
+PA00211;Sabão em Pó 1kg Delta;7899411000753;Limpeza;UN
+PA00212;Amaciante 2L Bom Preço;7897709058585;Limpeza;UN
+PA00213;Limpador Multiuso 500ml Vitória;7893009394552;Limpeza;PC
+PA00214;Sabão em Barra 200g Primor;7891085008066;Limpeza;FD
+PA00215;Água Sanitária 2L Vitória;7899337357047;Limpeza;UN
+PA00216;Limpador Multiuso 500ml Vitória;7899922680161;Limpeza;UN
+PA00217;Detergente Neutro 500ml Bom Preço;7893358581375;Limpeza;UN
+PA00218;Esponja Multiuso Campo Verde;7892632858554;Limpeza;UN
+PA00219;Esponja Multiuso Real;7897049264677;Limpeza;FD
+PA00220;Detergente Neutro 500ml Bom Preço;7897598667776;Limpeza;PC
+PA00221;Esponja Multiuso Real;7892848411185;Limpeza;UN
+PA00222;Detergente Neutro 500ml Campo Verde;7894375055009;Limpeza;FD
+PA00223;Limpador Multiuso 500ml Real;7896827756700;Limpeza;UN
+PA00224;Esponja Multiuso Bom Preço;7893197219538;Limpeza;PC
+PA00225;Limpador Multiuso 500ml Campo Verde;7894622778248;Limpeza;CX
+PA00226;Detergente Neutro 500ml Real;7894984430211;Limpeza;FD
+PA00227;Desinfetante 1L Delta;7898819673651;Limpeza;PC
+PA00228;Sabão em Pó 1kg Campo Verde;7899452173447;Limpeza;UN
+PA00229;Detergente Neutro 500ml Vitória;7899913829708;Limpeza;FD
+PA00230;Desinfetante 1L Bom Preço;7895536940523;Limpeza;CX
+PA00231;Sabão em Barra 200g Aurora;7892124709104;Limpeza;FD
+PA00232;Limpador Multiuso 500ml Campo Verde;7896613773348;Limpeza;UN
+PA00233;Água Sanitária 2L Vitória;7898359888843;Limpeza;PC
+PA00234;Água Sanitária 2L Vitória;7895239823314;Limpeza;CX
+PA00235;Detergente Neutro 500ml Vitória;7894859018469;Limpeza;FD
+PA00236;Sabão em Pó 1kg Real;7891165025235;Limpeza;PC
+PA00237;Desinfetante 1L Campo Verde;7893662531332;Limpeza;FD
+PA00238;Sabão em Barra 200g Aurora;7899640733088;Limpeza;FD
+PA00239;Limpador Multiuso 500ml Real;7893608540176;Limpeza;PC
+PA00240;Esponja Multiuso Delta;7894006102072;Limpeza;FD
+PA00241;Detergente Neutro 500ml Aurora;7899480539819;Limpeza;CX
+PA00242;Limpador Multiuso 500ml Bom Preço;7891606621248;Limpeza;UN
+PA00243;Desinfetante 1L Delta;7892227260687;Limpeza;PC
+PA00244;Esponja Multiuso Real;7894893856942;Limpeza;UN
+PA00245;Esponja Multiuso Campo Verde;7894380268470;Limpeza;FD
+PA00246;Desinfetante 1L Aurora;7896036062487;Limpeza;UN
+PA00247;Sabão em Pó 1kg Bom Preço;7897565864146;Limpeza;UN
+PA00248;Sabão em Barra 200g Bom Preço;7899713084963;Limpeza;UN
+PA00249;Limpador Multiuso 500ml Delta;7897231241103;Limpeza;UN
+PA00250;Sabão em Barra 200g Delta;7899480366491;Limpeza;CX
+PA00251;Esponja Multiuso Campo Verde;7894694995802;Limpeza;CX
+PA00252;Desinfetante 1L Campo Verde;7893790776759;Limpeza;PC
+PA00253;Desinfetante 1L Delta;7899916591893;Limpeza;CX
+PA00254;Detergente Neutro 500ml Delta;7893707847305;Limpeza;FD
+PA00255;Água Sanitária 2L Vitória;7892920278590;Limpeza;FD
+PA00256;Desinfetante 1L Bom Preço;7895755319728;Limpeza;PC
+PA00257;Amaciante 2L Primor;7891700289139;Limpeza;FD
+PA00258;Sabão em Pó 1kg Vitória;7898316805708;Limpeza;FD
+PA00259;Esponja Multiuso Bom Preço;7895830111360;Limpeza;FD
+PA00260;Limpador Multiuso 500ml Aurora;7897942652922;Limpeza;CX
+PA00261;Limpador Multiuso 500ml Vitória;7898447994371;Limpeza;FD
+PA00262;Desinfetante 1L Real;7896843415759;Limpeza;CX
+PA00263;Água Sanitária 2L Primor;7893846428205;Limpeza;PC
+PA00264;Esponja Multiuso Campo Verde;7894684176426;Limpeza;UN
+PA00265;Detergente Neutro 500ml Bom Preço;7899950802443;Limpeza;PC
+PA00266;Amaciante 2L Vitória;7891445247456;Limpeza;FD
+PA00267;Sabão em Pó 1kg Delta;7893742301046;Limpeza;FD
+PA00268;Sabão em Barra 200g Campo Verde;7893959722740;Limpeza;PC
+PA00269;Sabão em Pó 1kg Bom Preço;7899646334395;Limpeza;FD
+PA00270;Esponja Multiuso Vitória;7893645043555;Limpeza;CX
+PA00271;Sabão em Barra 200g Campo Verde;7896280746676;Limpeza;CX
+PA00272;Água Sanitária 2L Aurora;7897110848652;Limpeza;FD
+PA00273;Esponja Multiuso Real;7893144705558;Limpeza;PC
+PA00274;Detergente Neutro 500ml Primor;7893625646646;Limpeza;PC
+PA00275;Sabão em Pó 1kg Delta;7891808001008;Limpeza;PC
+PA00276;Amaciante 2L Bom Preço;7893644676310;Limpeza;CX
+PA00277;Sabão em Barra 200g Vitória;7892855504849;Limpeza;PC
+PA00278;Sabão em Barra 200g Bom Preço;7898871846871;Limpeza;PC
+PA00279;Sabão em Pó 1kg Primor;7891472494373;Limpeza;FD
+PA00280;Limpador Multiuso 500ml Vitória;7894717665132;Limpeza;PC
+PA00281;Limpador Multiuso 500ml Delta;7894461508747;Limpeza;FD
+PA00282;Desinfetante 1L Vitória;7896284140562;Limpeza;CX
+PA00283;Amaciante 2L Vitória;7896521625197;Limpeza;PC
+PA00284;Amaciante 2L Delta;7898331094422;Limpeza;FD
+PA00285;Sabão em Pó 1kg Bom Preço;7892146527076;Limpeza;CX
+PA00286;Limpador Multiuso 500ml Bom Preço;7896484643443;Limpeza;CX
+PA00287;Limpador Multiuso 500ml Vitória;7891593319432;Limpeza;CX
+PA00288;Sabão em Pó 1kg Aurora;7895239957590;Limpeza;UN
+PA00289;Amaciante 2L Primor;7891533091930;Limpeza;FD
+PA00290;Desinfetante 1L Campo Verde;7896788946905;Limpeza;CX
+PA00291;Limpador Multiuso 500ml Primor;7899728809360;Limpeza;FD
+PA00292;Sabão em Pó 1kg Campo Verde;7899415337572;Limpeza;FD
+PA00293;Desinfetante 1L Vitória;7892860370880;Limpeza;FD
+PA00294;Detergente Neutro 500ml Aurora;7897407002798;Limpeza;CX
+PA00295;Sabão em Barra 200g Campo Verde;7899427479871;Limpeza;CX
+PA00296;Amaciante 2L Campo Verde;7899663067368;Limpeza;CX
+PA00297;Esponja Multiuso Delta;7899253571787;Limpeza;FD
+PA00298;Limpador Multiuso 500ml Campo Verde;7898575318919;Limpeza;CX
+PA00299;Esponja Multiuso Delta;7892232219854;Limpeza;UN
+PA00300;Desinfetante 1L Bom Preço;7895695660324;Limpeza;CX
+PA00301;Fralda Infantil M Real;7899207818265;Higiene Pessoal;PC
+PA00302;Sabonete 90g Bom Preço;7899240761023;Higiene Pessoal;PC
+PA00303;Fralda Infantil M Bom Preço;7896383036179;Higiene Pessoal;UN
+PA00304;Sabonete 90g Campo Verde;7892505826024;Higiene Pessoal;FD
+PA00305;Sabonete 90g Real;7897233720880;Higiene Pessoal;UN
+PA00306;Papel Higiênico 4un Aurora;7899878577935;Higiene Pessoal;FD
+PA00307;Desodorante Aerossol Bom Preço;7895735727178;Higiene Pessoal;CX
+PA00308;Creme Dental 90g Primor;7897627269469;Higiene Pessoal;PC
+PA00309;Creme Dental 90g Campo Verde;7891678056498;Higiene Pessoal;CX
+PA00310;Sabonete 90g Primor;7897972116371;Higiene Pessoal;CX
+PA00311;Papel Higiênico 4un Delta;7896529836069;Higiene Pessoal;FD
+PA00312;Creme Dental 90g Delta;7897818106603;Higiene Pessoal;CX
+PA00313;Sabonete 90g Primor;7899360588302;Higiene Pessoal;UN
+PA00314;Papel Higiênico 4un Primor;7894923049818;Higiene Pessoal;PC
+PA00315;Sabonete 90g Vitória;7898897616397;Higiene Pessoal;CX
+PA00316;Shampoo 350ml Primor;7899637937840;Higiene Pessoal;PC
+PA00317;Sabonete 90g Bom Preço;7899688467952;Higiene Pessoal;UN
+PA00318;Desodorante Aerossol Vitória;7898832852958;Higiene Pessoal;CX
+PA00319;Shampoo 350ml Vitória;7891550434741;Higiene Pessoal;PC
+PA00320;Absorvente 8un Bom Preço;7898280516631;Higiene Pessoal;UN
+PA00321;Desodorante Aerossol Delta;7891754923454;Higiene Pessoal;UN
+PA00322;Desodorante Aerossol Aurora;7895022858394;Higiene Pessoal;UN
+PA00323;Papel Higiênico 4un Bom Preço;7897708419356;Higiene Pessoal;UN
+PA00324;Papel Higiênico 4un Real;7896604852229;Higiene Pessoal;UN
+PA00325;Sabonete 90g Bom Preço;7897946563477;Higiene Pessoal;CX
+PA00326;Creme Dental 90g Vitória;7893898705194;Higiene Pessoal;FD
+PA00327;Desodorante Aerossol Bom Preço;7896740951039;Higiene Pessoal;UN
+PA00328;Desodorante Aerossol Vitória;7894108485929;Higiene Pessoal;CX
+PA00329;Papel Higiênico 4un Delta;7892047818310;Higiene Pessoal;CX
+PA00330;Shampoo 350ml Bom Preço;7896709066637;Higiene Pessoal;CX
+PA00331;Sabonete 90g Bom Preço;7893342230203;Higiene Pessoal;PC
+PA00332;Creme Dental 90g Bom Preço;7891957109860;Higiene Pessoal;UN
+PA00333;Shampoo 350ml Vitória;7894049392959;Higiene Pessoal;PC
+PA00334;Papel Higiênico 4un Vitória;7893647933816;Higiene Pessoal;FD
+PA00335;Creme Dental 90g Primor;7894290327687;Higiene Pessoal;FD
+PA00336;Fralda Infantil M Bom Preço;7891069510721;Higiene Pessoal;PC
+PA00337;Shampoo 350ml Delta;7898107090863;Higiene Pessoal;FD
+PA00338;Fralda Infantil M Delta;7897822269158;Higiene Pessoal;FD
+PA00339;Sabonete 90g Campo Verde;7898304893069;Higiene Pessoal;UN
+PA00340;Shampoo 350ml Delta;7892003725256;Higiene Pessoal;UN
+PA00341;Shampoo 350ml Delta;7894288608033;Higiene Pessoal;UN
+PA00342;Shampoo 350ml Vitória;7891810369103;Higiene Pessoal;UN
+PA00343;Papel Higiênico 4un Delta;7891788479972;Higiene Pessoal;PC
+PA00344;Absorvente 8un Real;7899240436457;Higiene Pessoal;PC
+PA00345;Absorvente 8un Real;7896354799874;Higiene Pessoal;PC
+PA00346;Papel Higiênico 4un Vitória;7896986752506;Higiene Pessoal;CX
+PA00347;Shampoo 350ml Vitória;7894318457471;Higiene Pessoal;PC
+PA00348;Creme Dental 90g Primor;7898665011188;Higiene Pessoal;FD
+PA00349;Fralda Infantil M Vitória;7892960428115;Higiene Pessoal;UN
+PA00350;Creme Dental 90g Bom Preço;7899553164078;Higiene Pessoal;FD
+PA00351;Fralda Infantil M Delta;7895580515654;Higiene Pessoal;FD
+PA00352;Creme Dental 90g Vitória;7895551577407;Higiene Pessoal;UN
+PA00353;Creme Dental 90g Vitória;7899895678318;Higiene Pessoal;PC
+PA00354;Fralda Infantil M Vitória;7892247240959;Higiene Pessoal;FD
+PA00355;Desodorante Aerossol Real;7894850271207;Higiene Pessoal;PC
+PA00356;Sabonete 90g Primor;7894142277238;Higiene Pessoal;FD
+PA00357;Papel Higiênico 4un Delta;7899915677062;Higiene Pessoal;PC
+PA00358;Papel Higiênico 4un Campo Verde;7892434334713;Higiene Pessoal;PC
+PA00359;Creme Dental 90g Delta;7892706274044;Higiene Pessoal;CX
+PA00360;Papel Higiênico 4un Primor;7895019423604;Higiene Pessoal;PC
+PA00361;Desodorante Aerossol Primor;7897083837196;Higiene Pessoal;UN
+PA00362;Fralda Infantil M Delta;7898180853645;Higiene Pessoal;CX
+PA00363;Shampoo 350ml Aurora;7891921590502;Higiene Pessoal;CX
+PA00364;Fralda Infantil M Primor;7897703782264;Higiene Pessoal;UN
+PA00365;Creme Dental 90g Campo Verde;7894519949430;Higiene Pessoal;UN
+PA00366;Creme Dental 90g Bom Preço;7897940681252;Higiene Pessoal;CX
+PA00367;Papel Higiênico 4un Primor;7897086022469;Higiene Pessoal;PC
+PA00368;Sabonete 90g Bom Preço;7898984418781;Higiene Pessoal;PC
+PA00369;Fralda Infantil M Campo Verde;7892480971702;Higiene Pessoal;CX
+PA00370;Shampoo 350ml Real;7894675691334;Higiene Pessoal;CX
+PA00371;Fralda Infantil M Vitória;7893499454552;Higiene Pessoal;CX
+PA00372;Fralda Infantil M Aurora;7898660690807;Higiene Pessoal;PC
+PA00373;Desodorante Aerossol Delta;7899915735649;Higiene Pessoal;UN
+PA00374;Absorvente 8un Primor;7896950857275;Higiene Pessoal;UN
+PA00375;Desodorante Aerossol Vitória;7897189789481;Higiene Pessoal;PC
+PA00376;Fralda Infantil M Primor;7895198507867;Higiene Pessoal;CX
+PA00377;Sabonete 90g Campo Verde;7893130237025;Higiene Pessoal;FD
+PA00378;Shampoo 350ml Primor;7898351984505;Higiene Pessoal;CX
+PA00379;Sabonete 90g Aurora;7891930559149;Higiene Pessoal;CX
+PA00380;Papel Higiênico 4un Campo Verde;7893405855466;Higiene Pessoal;PC
+PA00381;Fralda Infantil M Primor;7898416357244;Higiene Pessoal;UN
+PA00382;Fralda Infantil M Real;7893688046155;Higiene Pessoal;PC
+PA00383;Absorvente 8un Delta;7898762509243;Higiene Pessoal;UN
+PA00384;Papel Higiênico 4un Campo Verde;7893374359507;Higiene Pessoal;FD
+PA00385;Absorvente 8un Real;7898485379635;Higiene Pessoal;FD
+PA00386;Creme Dental 90g Real;7895169577349;Higiene Pessoal;UN
+PA00387;Fralda Infantil M Aurora;7897567798883;Higiene Pessoal;UN
+PA00388;Creme Dental 90g Bom Preço;7891024149751;Higiene Pessoal;UN
+PA00389;Sabonete 90g Vitória;7893840320284;Higiene Pessoal;UN
+PA00390;Sabonete 90g Aurora;7891592571732;Higiene Pessoal;FD
+PA00391;Creme Dental 90g Primor;7897846493331;Higiene Pessoal;FD
+PA00392;Papel Higiênico 4un Real;7892449164688;Higiene Pessoal;CX
+PA00393;Creme Dental 90g Delta;7891549504462;Higiene Pessoal;UN
+PA00394;Creme Dental 90g Primor;7892398663447;Higiene Pessoal;FD
+PA00395;Absorvente 8un Primor;7895618678504;Higiene Pessoal;CX
+PA00396;Papel Higiênico 4un Aurora;7897420084535;Higiene Pessoal;PC
+PA00397;Absorvente 8un Aurora;7897021137067;Higiene Pessoal;FD
+PA00398;Desodorante Aerossol Vitória;7894557978799;Higiene Pessoal;CX
+PA00399;Absorvente 8un Bom Preço;7898821810518;Higiene Pessoal;PC
+PA00400;Creme Dental 90g Bom Preço;7891323726752;Higiene Pessoal;PC
+PA00401;Prato Descartável 15cm Campo Verde;7893409982236;Descartáveis;UN
+PA00402;Saco de Lixo 50L Campo Verde;7899716063507;Descartáveis;FD
+PA00403;Papel Toalha 2un Aurora;7894481870671;Descartáveis;FD
+PA00404;Guardanapo 50un Bom Preço;7894290312843;Descartáveis;CX
+PA00405;Saco de Lixo 50L Primor;7892726343881;Descartáveis;CX
+PA00406;Saco de Lixo 50L Vitória;7896175063185;Descartáveis;UN
+PA00407;Guardanapo 50un Primor;7899791818856;Descartáveis;PC
+PA00408;Saco de Lixo 50L Vitória;7894963232737;Descartáveis;UN
+PA00409;Talher Descartável Campo Verde;7892376879532;Descartáveis;CX
+PA00410;Papel Toalha 2un Vitória;7893252879516;Descartáveis;PC
+PA00411;Guardanapo 50un Real;7897298346513;Descartáveis;UN
+PA00412;Copo Descartável 200ml Primor;7897282728189;Descartáveis;CX
+PA00413;Saco de Lixo 50L Real;7898399186350;Descartáveis;CX
+PA00414;Talher Descartável Campo Verde;7893402488605;Descartáveis;CX
+PA00415;Copo Descartável 200ml Delta;7899974050059;Descartáveis;UN
+PA00416;Papel Toalha 2un Delta;7896166356760;Descartáveis;UN
+PA00417;Copo Descartável 200ml Real;7891835434497;Descartáveis;CX
+PA00418;Saco de Lixo 50L Vitória;7895491189197;Descartáveis;FD
+PA00419;Guardanapo 50un Aurora;7895473282649;Descartáveis;UN
+PA00420;Guardanapo 50un Delta;7893233623015;Descartáveis;UN
+PA00421;Papel Toalha 2un Bom Preço;7892026340726;Descartáveis;FD
+PA00422;Prato Descartável 15cm Aurora;7893161465114;Descartáveis;PC
+PA00423;Papel Toalha 2un Delta;7899749998883;Descartáveis;FD
+PA00424;Guardanapo 50un Delta;7894741419947;Descartáveis;CX
+PA00425;Copo Descartável 200ml Delta;7892844525640;Descartáveis;UN
+PA00426;Prato Descartável 15cm Aurora;7899432591568;Descartáveis;CX
+PA00427;Copo Descartável 200ml Campo Verde;7899017999598;Descartáveis;FD
+PA00428;Talher Descartável Primor;7899504946074;Descartáveis;PC
+PA00429;Prato Descartável 15cm Aurora;7891286686346;Descartáveis;CX
+PA00430;Talher Descartável Bom Preço;7891073686986;Descartáveis;FD
+PA00431;Copo Descartável 200ml Campo Verde;7895491702532;Descartáveis;CX
+PA00432;Papel Toalha 2un Aurora;7894330006572;Descartáveis;PC
+PA00433;Prato Descartável 15cm Aurora;7898625053500;Descartáveis;UN
+PA00434;Guardanapo 50un Vitória;7899105274422;Descartáveis;PC
+PA00435;Copo Descartável 200ml Aurora;7898810291014;Descartáveis;FD
+PA00436;Saco de Lixo 50L Delta;7893773743013;Descartáveis;UN
+PA00437;Prato Descartável 15cm Delta;7891388882561;Descartáveis;UN
+PA00438;Prato Descartável 15cm Real;7895122461760;Descartáveis;PC
+PA00439;Prato Descartável 15cm Vitória;7898390656760;Descartáveis;UN
+PA00440;Talher Descartável Aurora;7892287464926;Descartáveis;UN
+PA00441;Papel Toalha 2un Vitória;7899814020587;Descartáveis;CX
+PA00442;Guardanapo 50un Aurora;7898480326009;Descartáveis;CX
+PA00443;Guardanapo 50un Delta;7893802007338;Descartáveis;CX
+PA00444;Saco de Lixo 50L Campo Verde;7898329817187;Descartáveis;PC
+PA00445;Saco de Lixo 50L Vitória;7891551684411;Descartáveis;FD
+PA00446;Talher Descartável Real;7891876868534;Descartáveis;PC
+PA00447;Guardanapo 50un Aurora;7894272347702;Descartáveis;UN
+PA00448;Saco de Lixo 50L Primor;7891152896138;Descartáveis;PC
+PA00449;Talher Descartável Vitória;7893225101125;Descartáveis;FD
+PA00450;Talher Descartável Real;7897627931786;Descartáveis;PC
+PA00451;Talher Descartável Real;7894215776880;Descartáveis;UN
+PA00452;Guardanapo 50un Real;7899068995419;Descartáveis;PC
+PA00453;Saco de Lixo 50L Real;7896455007434;Descartáveis;FD
+PA00454;Talher Descartável Bom Preço;7891025346715;Descartáveis;UN
+PA00455;Prato Descartável 15cm Campo Verde;7898715489882;Descartáveis;PC
+PA00456;Copo Descartável 200ml Primor;7895731976402;Descartáveis;FD
+PA00457;Guardanapo 50un Bom Preço;7895379364302;Descartáveis;PC
+PA00458;Copo Descartável 200ml Aurora;7893840704725;Descartáveis;CX
+PA00459;Prato Descartável 15cm Vitória;7895983385731;Descartáveis;UN
+PA00460;Guardanapo 50un Vitória;7896486073323;Descartáveis;CX
+PA00461;Talher Descartável Primor;7897780456430;Descartáveis;FD
+PA00462;Guardanapo 50un Delta;7896368698187;Descartáveis;CX
+PA00463;Talher Descartável Campo Verde;7893406615380;Descartáveis;FD
+PA00464;Copo Descartável 200ml Aurora;7899658068264;Descartáveis;CX
+PA00465;Papel Toalha 2un Vitória;7898340228122;Descartáveis;CX
+PA00466;Copo Descartável 200ml Real;7895748386393;Descartáveis;FD
+PA00467;Saco de Lixo 50L Aurora;7896420806543;Descartáveis;UN
+PA00468;Saco de Lixo 50L Vitória;7899145224883;Descartáveis;PC
+PA00469;Talher Descartável Campo Verde;7891595462709;Descartáveis;CX
+PA00470;Papel Toalha 2un Real;7893665597533;Descartáveis;CX
+PA00471;Copo Descartável 200ml Delta;7897572457379;Descartáveis;CX
+PA00472;Talher Descartável Real;7897093498592;Descartáveis;FD
+PA00473;Copo Descartável 200ml Delta;7893251455742;Descartáveis;CX
+PA00474;Papel Toalha 2un Delta;7896714937182;Descartáveis;CX
+PA00475;Talher Descartável Aurora;7895312751152;Descartáveis;FD
+PA00476;Copo Descartável 200ml Campo Verde;7894812812899;Descartáveis;CX
+PA00477;Copo Descartável 200ml Aurora;7897398600966;Descartáveis;UN
+PA00478;Prato Descartável 15cm Aurora;7898599032044;Descartáveis;PC
+PA00479;Papel Toalha 2un Primor;7898726233191;Descartáveis;UN
+PA00480;Guardanapo 50un Primor;7898035876997;Descartáveis;CX
+PA00481;Papel Toalha 2un Bom Preço;7896862658595;Descartáveis;UN
+PA00482;Talher Descartável Vitória;7898120186314;Descartáveis;CX
+PA00483;Guardanapo 50un Real;7899818811716;Descartáveis;PC
+PA00484;Saco de Lixo 50L Real;7895561121676;Descartáveis;UN
+PA00485;Papel Toalha 2un Real;7891166911704;Descartáveis;UN
+PA00486;Prato Descartável 15cm Campo Verde;7899509783407;Descartáveis;FD
+PA00487;Saco de Lixo 50L Campo Verde;7897327805165;Descartáveis;UN
+PA00488;Prato Descartável 15cm Vitória;7896058478105;Descartáveis;UN
+PA00489;Talher Descartável Primor;7894926248300;Descartáveis;FD
+PA00490;Guardanapo 50un Primor;7897530995301;Descartáveis;CX
+PA00491;Prato Descartável 15cm Bom Preço;7895153885153;Descartáveis;FD
+PA00492;Copo Descartável 200ml Real;7894440264817;Descartáveis;UN
+PA00493;Talher Descartável Aurora;7896350669492;Descartáveis;UN
+PA00494;Saco de Lixo 50L Aurora;7897071146378;Descartáveis;PC
+PA00495;Guardanapo 50un Real;7891680289631;Descartáveis;FD
+PA00496;Prato Descartável 15cm Bom Preço;7897887905824;Descartáveis;PC
+PA00497;Talher Descartável Vitória;7893816747879;Descartáveis;CX
+PA00498;Prato Descartável 15cm Campo Verde;7894620731306;Descartáveis;PC
+PA00499;Talher Descartável Vitória;7899912406474;Descartáveis;CX
+PA00500;Prato Descartável 15cm Bom Preço;7896357164228;Descartáveis;UN
+PA00501;Achocolatado 400g Real;7892148336157;Matinais;UN
+PA00502;Cereal Matinal 300g Real;7897181048593;Matinais;PC
+PA00503;Biscoito Recheado 130g Aurora;7896969815471;Matinais;FD
+PA00504;Achocolatado 400g Bom Preço;7893032029773;Matinais;FD
+PA00505;Cereal Matinal 300g Delta;7894140500277;Matinais;UN
+PA00506;Achocolatado 400g Delta;7895414504724;Matinais;CX
+PA00507;Pão de Forma 500g Bom Preço;7897677617418;Matinais;FD
+PA00508;Biscoito Recheado 130g Real;7894508689767;Matinais;CX
+PA00509;Pão de Forma 500g Aurora;7899402458600;Matinais;UN
+PA00510;Iogurte 170g Vitória;7894116556116;Matinais;UN
+PA00511;Pão de Forma 500g Primor;7898708353701;Matinais;UN
+PA00512;Pão de Forma 500g Primor;7897162489728;Matinais;PC
+PA00513;Iogurte 170g Bom Preço;7892258089080;Matinais;UN
+PA00514;Margarina 500g Primor;7891909863611;Matinais;FD
+PA00515;Cereal Matinal 300g Campo Verde;7898963831174;Matinais;UN
+PA00516;Biscoito Recheado 130g Bom Preço;7893739498704;Matinais;PC
+PA00517;Achocolatado 400g Delta;7893426861309;Matinais;FD
+PA00518;Achocolatado 400g Vitória;7898721098702;Matinais;FD
+PA00519;Margarina 500g Aurora;7894196778675;Matinais;UN
+PA00520;Achocolatado 400g Campo Verde;7894998059965;Matinais;PC
+PA00521;Leite Integral 1L Campo Verde;7895187458781;Matinais;CX
+PA00522;Pão de Forma 500g Real;7894367740746;Matinais;CX
+PA00523;Margarina 500g Aurora;7894110635862;Matinais;UN
+PA00524;Biscoito Recheado 130g Vitória;7896183698584;Matinais;FD
+PA00525;Biscoito Recheado 130g Delta;7895306445111;Matinais;FD
+PA00526;Cereal Matinal 300g Vitória;7895838633789;Matinais;PC
+PA00527;Cereal Matinal 300g Campo Verde;7897575937564;Matinais;FD
+PA00528;Margarina 500g Real;7893326722663;Matinais;PC
+PA00529;Leite Integral 1L Bom Preço;7891086790106;Matinais;PC
+PA00530;Iogurte 170g Aurora;7899954770748;Matinais;PC
+PA00531;Cereal Matinal 300g Aurora;7895369696536;Matinais;UN
+PA00532;Leite Integral 1L Aurora;7896665079467;Matinais;CX
+PA00533;Biscoito Recheado 130g Bom Preço;7899438671929;Matinais;FD
+PA00534;Iogurte 170g Vitória;7892394989428;Matinais;UN
+PA00535;Pão de Forma 500g Campo Verde;7898563711418;Matinais;PC
+PA00536;Biscoito Recheado 130g Aurora;7898787251646;Matinais;FD
+PA00537;Cereal Matinal 300g Campo Verde;7893479601907;Matinais;PC
+PA00538;Pão de Forma 500g Delta;7893517931652;Matinais;UN
+PA00539;Biscoito Recheado 130g Bom Preço;7897966843733;Matinais;FD
+PA00540;Pão de Forma 500g Real;7891446572823;Matinais;UN
+PA00541;Iogurte 170g Primor;7898652765933;Matinais;CX
+PA00542;Margarina 500g Vitória;7892535799053;Matinais;UN
+PA00543;Iogurte 170g Delta;7894523814762;Matinais;PC
+PA00544;Iogurte 170g Delta;7895602548448;Matinais;CX
+PA00545;Pão de Forma 500g Delta;7895339865184;Matinais;CX
+PA00546;Biscoito Recheado 130g Aurora;7891448386190;Matinais;CX
+PA00547;Leite Integral 1L Real;7897547215508;Matinais;UN
+PA00548;Pão de Forma 500g Bom Preço;7892987942557;Matinais;UN
+PA00549;Cereal Matinal 300g Delta;7895425541015;Matinais;CX
+PA00550;Pão de Forma 500g Delta;7897141264001;Matinais;CX
+PA00551;Pão de Forma 500g Delta;7899054316471;Matinais;CX
+PA00552;Leite Integral 1L Bom Preço;7895773141769;Matinais;CX
+PA00553;Cereal Matinal 300g Primor;7891594855274;Matinais;FD
+PA00554;Cereal Matinal 300g Aurora;7891741379479;Matinais;PC
+PA00555;Pão de Forma 500g Campo Verde;7897329953390;Matinais;UN
+PA00556;Pão de Forma 500g Vitória;7897704617985;Matinais;FD
+PA00557;Leite Integral 1L Bom Preço;7891755446105;Matinais;PC
+PA00558;Achocolatado 400g Aurora;7891083613545;Matinais;PC
+PA00559;Cereal Matinal 300g Bom Preço;7894066497224;Matinais;UN
+PA00560;Margarina 500g Aurora;7891897884827;Matinais;FD
+PA00561;Achocolatado 400g Delta;7899665677237;Matinais;UN
+PA00562;Cereal Matinal 300g Primor;7894419840684;Matinais;CX
+PA00563;Iogurte 170g Bom Preço;7891562347428;Matinais;UN
+PA00564;Biscoito Recheado 130g Primor;7899694462965;Matinais;UN
+PA00565;Cereal Matinal 300g Real;7898038837544;Matinais;CX
+PA00566;Cereal Matinal 300g Aurora;7896027224870;Matinais;FD
+PA00567;Margarina 500g Delta;7893816773847;Matinais;UN
+PA00568;Cereal Matinal 300g Primor;7899277158681;Matinais;PC
+PA00569;Pão de Forma 500g Campo Verde;7891526285834;Matinais;FD
+PA00570;Pão de Forma 500g Aurora;7895751668974;Matinais;PC
+PA00571;Iogurte 170g Real;7896122569739;Matinais;FD
+PA00572;Cereal Matinal 300g Aurora;7897616962722;Matinais;UN
+PA00573;Pão de Forma 500g Real;7892900538133;Matinais;PC
+PA00574;Biscoito Recheado 130g Real;7897807839741;Matinais;FD
+PA00575;Iogurte 170g Campo Verde;7895647422994;Matinais;CX
+PA00576;Cereal Matinal 300g Vitória;7892842787026;Matinais;PC
+PA00577;Cereal Matinal 300g Bom Preço;7897918964073;Matinais;UN
+PA00578;Cereal Matinal 300g Aurora;7892401250930;Matinais;CX
+PA00579;Pão de Forma 500g Bom Preço;7895709047943;Matinais;PC
+PA00580;Iogurte 170g Bom Preço;7899010936675;Matinais;FD
+PA00581;Margarina 500g Vitória;7893661171591;Matinais;CX
+PA00582;Iogurte 170g Real;7899021077589;Matinais;CX
+PA00583;Achocolatado 400g Real;7894188359172;Matinais;CX
+PA00584;Margarina 500g Aurora;7892724558591;Matinais;CX
+PA00585;Iogurte 170g Delta;7895157267498;Matinais;FD
+PA00586;Achocolatado 400g Vitória;7891171585068;Matinais;PC
+PA00587;Cereal Matinal 300g Aurora;7892379737648;Matinais;PC
+PA00588;Iogurte 170g Real;7895245971603;Matinais;FD
+PA00589;Iogurte 170g Primor;7898812679698;Matinais;FD
+PA00590;Achocolatado 400g Vitória;7898835248840;Matinais;UN
+PA00591;Biscoito Recheado 130g Bom Preço;7893575421706;Matinais;CX
+PA00592;Iogurte 170g Delta;7891702833613;Matinais;CX
+PA00593;Biscoito Recheado 130g Primor;7891755474009;Matinais;CX
+PA00594;Pão de Forma 500g Aurora;7891441609371;Matinais;PC
+PA00595;Biscoito Recheado 130g Aurora;7897351803120;Matinais;UN
+PA00596;Iogurte 170g Vitória;7893865271264;Matinais;PC
+PA00597;Iogurte 170g Real;7896835728249;Matinais;FD
+PA00598;Pão de Forma 500g Delta;7894510636902;Matinais;FD
+PA00599;Pão de Forma 500g Real;7899237533930;Matinais;PC
+PA00600;Leite Integral 1L Primor;7896365440666;Matinais;CX

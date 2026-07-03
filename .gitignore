@@ -1,0 +1,12 @@
+# Ambiente virtual (nunca vai pro Git)
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema / editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
