@@ -75,7 +75,7 @@ python src/04_reconciliar_clientes.py
 - [x] Passo 4 — Fonte única de vendas + margem por cliente
 - [x] Passo 5 — Previsão de vendas
 - [x] Passo 6 — Dashboard
-- [ ] Passo 7 — Publicação (em andamento)
+- [x] Passo 7 — Publicação (em andamento)
 
 ## 📈 Principais resultados
 
